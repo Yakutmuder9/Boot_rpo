@@ -1,0 +1,8 @@
+{
+    "_id": "L1",
+    "productName": "Product A",
+    "price": 50.0,
+    "qty": 2,
+    "invoiceId": "I1",
+    "customerId": "C1"
+}

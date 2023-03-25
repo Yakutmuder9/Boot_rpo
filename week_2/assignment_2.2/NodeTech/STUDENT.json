@@ -1,0 +1,22 @@
+{
+    "studentId": 123456,
+    "firstName": "John",
+    "lastName": "Doe",
+    "enrollments": [
+        {
+            "term": "Fall 2022",
+            "gpa": 3.5,
+            "startDate": "2022-09-01",
+            "endDate": "2022-12-31",
+            "courses": [
+                {
+                    "courseId": "CS101",
+                    "description": "Introduction to Computer Science",
+                    "instructor": "Dr. Smith",
+                    "score": 85,
+                    "letterGrade": "B+"
+                }
+            ]
+        }
+    ]
+}

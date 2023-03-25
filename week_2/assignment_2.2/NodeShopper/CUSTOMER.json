@@ -1,0 +1,23 @@
+{
+    "_id": "C1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "dateOfBirth": "1980-01-01",
+    "username": "johndoe",
+    "invoices": [
+        {
+            "invoiceId": "I1",
+            "createDate": "2022-03-25",
+            "shipDate": "2022-03-30",
+            "subtotal": 100.0,
+            "lineItems": [
+                {
+                    "lineItemId": "L1",
+                    "productName": "Product A",
+                    "price": 50.0,
+                    "qty": 2
+                }
+            ]
+        }
+    ]
+}

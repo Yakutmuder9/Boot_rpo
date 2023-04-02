@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "userID": 1,
+            "firstName": "John",
+            "lastName": "Doe",
+            "roles": [
+                {
+                    "role1": "admin"
+                },
+                {
+                    "role2": "user"
+                }
+            ],
+            "permissions": [
+                {
+                    "permission1": "create user"
+                },
+                {
+                    "permission2": "delete user"
+                }
+            ]
+        }
+    ]
+}

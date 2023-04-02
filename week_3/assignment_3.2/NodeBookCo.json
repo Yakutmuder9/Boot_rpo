@@ -1,0 +1,25 @@
+{
+    "publishers": [
+        {
+            "publisher_code": "1234",
+            "publisher_name": "P1",
+            "publisher_address": "123 street",
+            "books": [
+                {
+                    "book_isbn": "1234567890",
+                    "book_name": "Book 1", 
+                    "book_price": 19.99,
+                    "authors": [
+                        {
+                            "authorID": 1,
+                            "firstName": "John",
+                            "lastName": "Doe",
+                            "phone": "123-456-7890",
+                            "email": "john.doe@email.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

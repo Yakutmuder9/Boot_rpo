@@ -9,6 +9,7 @@
 */
 
 // Load the user.js script from the GitHub repository
+load("Downloads/user.js")// Load the user.js script from the GitHub repository
 load("Downloads/user.js")
 
 // Find all documents in the users collection

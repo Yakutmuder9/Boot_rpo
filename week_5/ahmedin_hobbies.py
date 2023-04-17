@@ -17,7 +17,7 @@ for hobby in hobbies:
 # Create a list of days
 days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
-# loop and to display the day type
+# loop and display the day type
 print("\nDay types:")
 for day in days:
     if day == 'Saturday' or day == 'Sunday':

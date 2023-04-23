@@ -6,18 +6,23 @@
             "lastName": "Doe",
             "roles": [
                 {
-                    "role1": "admin"
+                    "id": "123",
+                    "permissions": [
+                        {
+                            "id": "023"
+                        },
+                        {
+                            "id": "320"
+                        }
+                    ]
                 },
                 {
-                    "role2": "user"
-                }
-            ],
-            "permissions": [
-                {
-                    "permission1": "create user"
-                },
-                {
-                    "permission2": "delete user"
+                    "id": "122",
+                    "permissions": [
+                        {
+                            "id": "1212"
+                        }
+                    ]
                 }
             ]
         }

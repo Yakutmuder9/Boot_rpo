@@ -1,3 +1,18 @@
+""" 
+    Title: ahmedin_myworld.py
+    Author: Professor Krasso
+    Date: 26 April 2023
+    Modified By: Yakut Ahmedin
+    Description: Exercise 7.3 – Python with MongoDB, Part 2.
+"""
+""" 
+    Title: ahmedin_myworld.py
+    Author: Professor Krasso
+    Date: 16 April 2023
+    Modified By: Yakut Ahmedin
+    Description: Exercise 6.3 – Python Conditionals, Lists, and Loops.
+"""
+
 import pymongo
 from pymongo import MongoClient
 
